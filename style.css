@@ -1,0 +1,58 @@
+div {
+  font-size:20px 2em;
+  text-align:center;
+  color:rgb(255,55,8);
+}
+  h3 {
+    font-size:19px;
+      text-align:center;
+color:rgb(6,2,80);
+  }
+    h2 {
+      color:rgba(255, 134, 0, 1);
+      text-align:center;
+      font-size:14px;
+    }
+    p {
+            font-size:14px;
+      text-align:center;
+      color:rgba(255, 134, 0, 1);
+    }
+      h6 {
+        font-size:29px;
+              text-align:center;
+      }
+       h1 {
+         text-align:center;
+          margin:2px;
+       }
+        a {
+  text-decoration:none;
+   font-size:6em 2px rgb(255,0,0);
+   margin:3px;
+   padding:3px;
+}
+ button {
+border-radius: 10px;
+background-color:rgb(999,542,321);
+margin:3px;
+padding:3px;
+ }
+   hr {
+         padding-left:999px;
+font-size:7px;
+   }
+     body {
+       background-color:rgba(245, 255, 0, 1);
+       padding:0px;
+       margin:0px;
+     }
+       fieldset {
+         background-color:rgba(0, 0, 0, 1);
+         color:rgba(255, 0, 0, 1);
+         font-size:12px;
+         text-align:center;
+         padding:6px;
+         
+       }
+  
